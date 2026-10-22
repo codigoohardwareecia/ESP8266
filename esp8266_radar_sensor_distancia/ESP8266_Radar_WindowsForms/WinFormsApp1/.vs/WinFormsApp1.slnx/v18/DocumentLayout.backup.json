@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Storage\\Canal Youtube\\C\u00F3digo, Hardware e Cia\\Github\\ESP8266\\esp8266_radar_sensor_distancia\\ESP8266_Radar_WindowsForms\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4983596-628C-4E19-AE80-12BCDD956CC1}|WinFormsApp1\\WinFormsApp1.csproj|d:\\storage\\canal youtube\\c\u00F3digo, hardware e cia\\github\\esp8266\\esp8266_radar_sensor_distancia\\esp8266_radar_windowsforms\\winformsapp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B4983596-628C-4E19-AE80-12BCDD956CC1}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Storage\\Canal Youtube\\C\u00F3digo, Hardware e Cia\\Github\\ESP8266\\esp8266_radar_sensor_distancia\\ESP8266_Radar_WindowsForms\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\Storage\\Canal Youtube\\C\u00F3digo, Hardware e Cia\\Github\\ESP8266\\esp8266_radar_sensor_distancia\\ESP8266_Radar_WindowsForms\\WinFormsApp1\\WinFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T18:14:14.277Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
