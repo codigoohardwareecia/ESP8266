@@ -1,0 +1,16 @@
+C:\Users\principal\Downloads\ESP8266_DIsplay_LCD_Desktop\ESP8266_DIsplay_LCD_Desktop\obj\Debug\net8.0-windows\ESP8266_DIsplay_LCD_Desktop.Form1.resources
+C:\Users\principal\Downloads\ESP8266_DIsplay_LCD_Desktop\ESP8266_DIsplay_LCD_Desktop\obj\Debug\net8.0-windows\ESP8266_DIsplay_LCD_Desktop.csproj.GenerateResource.cache
+C:\Users\principal\Downloads\ESP8266_DIsplay_LCD_Desktop\ESP8266_DIsplay_LCD_Desktop\obj\Debug\net8.0-windows\ESP8266_DIsplay_LCD_Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\principal\Downloads\ESP8266_DIsplay_LCD_Desktop\ESP8266_DIsplay_LCD_Desktop\obj\Debug\net8.0-windows\ESP8266_DIsplay_LCD_Desktop.AssemblyInfoInputs.cache
+C:\Users\principal\Downloads\ESP8266_DIsplay_LCD_Desktop\ESP8266_DIsplay_LCD_Desktop\obj\Debug\net8.0-windows\ESP8266_DIsplay_LCD_Desktop.AssemblyInfo.cs
+C:\Users\principal\Downloads\ESP8266_DIsplay_LCD_Desktop\ESP8266_DIsplay_LCD_Desktop\obj\Debug\net8.0-windows\ESP8266_DIsplay_LCD_Desktop.csproj.CoreCompileInputs.cache
+C:\Users\principal\Downloads\ESP8266_DIsplay_LCD_Desktop\ESP8266_DIsplay_LCD_Desktop\bin\Debug\net8.0-windows\ESP8266_DIsplay_LCD_Desktop.exe
+C:\Users\principal\Downloads\ESP8266_DIsplay_LCD_Desktop\ESP8266_DIsplay_LCD_Desktop\bin\Debug\net8.0-windows\ESP8266_DIsplay_LCD_Desktop.deps.json
+C:\Users\principal\Downloads\ESP8266_DIsplay_LCD_Desktop\ESP8266_DIsplay_LCD_Desktop\bin\Debug\net8.0-windows\ESP8266_DIsplay_LCD_Desktop.runtimeconfig.json
+C:\Users\principal\Downloads\ESP8266_DIsplay_LCD_Desktop\ESP8266_DIsplay_LCD_Desktop\bin\Debug\net8.0-windows\ESP8266_DIsplay_LCD_Desktop.dll
+C:\Users\principal\Downloads\ESP8266_DIsplay_LCD_Desktop\ESP8266_DIsplay_LCD_Desktop\bin\Debug\net8.0-windows\ESP8266_DIsplay_LCD_Desktop.pdb
+C:\Users\principal\Downloads\ESP8266_DIsplay_LCD_Desktop\ESP8266_DIsplay_LCD_Desktop\obj\Debug\net8.0-windows\ESP8266_DIsplay_LCD_Desktop.dll
+C:\Users\principal\Downloads\ESP8266_DIsplay_LCD_Desktop\ESP8266_DIsplay_LCD_Desktop\obj\Debug\net8.0-windows\refint\ESP8266_DIsplay_LCD_Desktop.dll
+C:\Users\principal\Downloads\ESP8266_DIsplay_LCD_Desktop\ESP8266_DIsplay_LCD_Desktop\obj\Debug\net8.0-windows\ESP8266_DIsplay_LCD_Desktop.pdb
+C:\Users\principal\Downloads\ESP8266_DIsplay_LCD_Desktop\ESP8266_DIsplay_LCD_Desktop\obj\Debug\net8.0-windows\ESP8266_DIsplay_LCD_Desktop.genruntimeconfig.cache
+C:\Users\principal\Downloads\ESP8266_DIsplay_LCD_Desktop\ESP8266_DIsplay_LCD_Desktop\obj\Debug\net8.0-windows\ref\ESP8266_DIsplay_LCD_Desktop.dll
